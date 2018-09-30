@@ -10,4 +10,8 @@ Please refer this for Resource server to test this authorization server. Basical
 * Jdk 1.8
 
 
+# References:
+https://github.com/Akourtiim/oauth2-spring-boot-2.0.2
+
+
 
